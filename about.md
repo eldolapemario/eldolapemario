@@ -3,7 +3,7 @@ layout: page
 title: Hola...
 permalink: /about/
 ---
-...soy **eldolapemario**, te doy la bienvenida a éste, mi espacio personal, en él compartiré algunas de mis ficciones, relatos, crónicas y textos varios.
+...soy **eldolapemario**, te doy la bienvenida a mi espacio personal donde compartiré algunas de mis ficciones, relatos, crónicas y textos varios.
 
 Podés compartirlas libremente.
 Si lo hacés, solo te pido que enlaces de manera directa al post correspondiente, y que menciones mi autoría. ¡Gracias!
