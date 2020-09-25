@@ -4,6 +4,6 @@ title: eldolapemario
 permalink: /about/
 ---
 
-Hola, soy **eldolapemario**, este es mi espacio personal, en eĺ compartiré algunas de mis ficciones, relatos, crónicas y textos varios.
+Hola, soy **eldolapemario**, te doy la bienvenida a éste, mi espacio personal, en él compartiré algunas de mis ficciones, relatos, crónicas y textos varios.
 
 [Si me querés contactar, es aquí donde se puede](mailto:eldolapemario@gemail.com)
