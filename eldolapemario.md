@@ -1,7 +1,7 @@
 ---
 layout: page
 title: eldolapemario
-permalink: /eldolapemario/
+permalink: /about/
 ---
 
 Hola, soy **eldolapemario**, este es mi espacio personal, en eĺ compartiré algunas de mis ficciones, relatos, crónicas y textos varios.
